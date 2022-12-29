@@ -1,0 +1,36 @@
+.bg-container {
+    background-image: url("https://img.freepik.com/free-photo/beautiful-tropical-beach-sea_74190-6796.jpg?w=996&t=st=1661870881~exp=1661871481~hmac=dbdbb7528440f9fe817eb4990ba1f4383c53b8c7a2c1eea1df1f93c30b442b4a");
+    height: 100vh;
+    background-size: cover;
+}
+.card {
+    text-align: center;
+    background-color: white;
+    padding: 5px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    
+}
+.heading {
+    font-size: 50px;
+    font-weight: bold;
+}
+.paragraph {
+    font-size: 20px;
+    font-weight: italic;
+}
+.button {
+    height: 36px;
+    width: 138px;
+    background-color: #b8843b;
+    color: white;
+    border-radius: 25px;
+    border-width: 0px;
+    font-size: 20px;
+}
+.button-green {
+    background-color: #8cc63f;
+}
+.button-orange {
+    background-color: #f7931e;
+}

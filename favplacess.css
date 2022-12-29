@@ -1,0 +1,41 @@
+.back-image {
+    background-image: url("https://img.freepik.com/free-vector/realistic-fog-background_23-2149115272.jpg?w=996&t=st=1662099427~exp=1662100027~hmac=d463e0f191cb617ba851fe40b89bd80a1231c9d96db60816a5f31a98e5eccdb4");
+    height: 100vh;
+    width: 100vh;
+    background-size: cover;
+}
+.fav-place-heading {
+    text-align: center;
+    font-family: 'Roboto';
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 24px;
+    
+
+}
+.fav-place-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 15px;
+    
+}
+.fav-place-head {
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-style: 10px;
+}
+.fav-place-para {
+    color: #6c6b70;
+    font-size: 15px;
+
+
+}
+.image {
+    height: 120px;
+    width: 120px;
+    border-radius: 3px;
+}
+

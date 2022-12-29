@@ -1,0 +1,44 @@
+.container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 200vh;
+    width: 150vh;
+    background-size: cover;
+}
+.card {
+    border-radius: 100px;
+    background-color: rgba(232, 22, 22, 0);
+    padding: 30px;
+    margin: 20px;
+
+}
+.head {
+    color: rgb(117, 44, 44);
+}
+.para {
+    color: black;
+    font-size: 30px;
+    
+}
+.button-cont {
+    text-align: center;
+    margin: 20px;
+}
+.button {
+    height: 36px;
+    width: 138px;
+    color: black;
+    font-size: 15px;
+    background-color: red;
+    border-radius: 40px;
+    border-width: 0px;
+}
+.per {
+    font-weight: bolder;
+    font-size: 18px;
+}
+.perr {
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}

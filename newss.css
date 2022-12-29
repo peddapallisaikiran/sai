@@ -1,0 +1,37 @@
+.back-container {
+    background: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    width: 80vh;
+    background-size: cover;
+}
+.news-card {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 20px;
+
+}
+.heading {
+    color:  #7b8794;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.para {
+    color: rgb(46, 46, 76);
+    font-style: italic;
+}
+.news-discription {
+    font-size: small;
+    font-weight: normal;
+    font-family: 'roboto';
+}
+.button {
+    background-color: blueviolet;
+    font-size: 18px;
+    height: 36px;
+    width: 138px;
+    border-radius: 25px;
+    border-width: 0px;
+    color: black;
+}
